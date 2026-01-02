@@ -58,7 +58,7 @@
 
 
 ## *Let's Connect!*
-- 🌐 *Personal Website*: [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.chandrakant-bambarde.com)
+- 🌐 *Personal Website*: [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chandrakantbambarde.github.io/)
 - 💼 *I'm open to full-time opportunities!* Check out [![Resume](https://img.shields.io/badge/My%20Resume-000?style=for-the-badge&logo=Google-docs&logoColor=white)]()
 - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakantbambarde)
 - 💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandrakantbambarde)
