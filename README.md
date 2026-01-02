@@ -52,10 +52,6 @@
 - 🔐 **Login & Authentication System (Spring Boot)**  
 
 
-## *Community & Interests*
-- 👩‍💻 Member of *Women in Computer Science and Engineering (WICSE) and Rewriting the Code (RTC)*
-- ❤️ Passionate about *coding and contributing to open-source*  
-
 
 ## *Let's Connect!*
 - 🌐 *Personal Website*: [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chandrakantbambarde.github.io/)
