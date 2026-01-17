@@ -43,6 +43,14 @@
 ---
 
 ### 🚀 Key Projects
+### 🚚 Logistics Delivery Management System
+> *Designed a scalable backend architecture for real-time delivery tracking and order management.*
+- **Tech Stack:** `Spring Boot` `REST API` `MySQL` `Spring Data JPA`
+- **Key Features:**
+  - Architected **RESTful APIs** to handle the complete delivery lifecycle, including order creation, driver assignment, and status updates.
+  - Implemented **Clean Architecture** principles to ensure separation of concerns between Controller, Service, and Repository layers.
+  - Optimized **MySQL database relationships** (One-to-Many, Many-to-Many) for efficient querying of drivers and delivery history.
+  - Focused on **Backend Scalability** to handle high-concurrency order processing.
 
 - **🗳️ Online Voting System (Admin Panel)** A secure administrative dashboard built with **Spring Boot & MySQL** to manage elections and voter data efficiently. Features role-based authentication and real-time data handling.
 
